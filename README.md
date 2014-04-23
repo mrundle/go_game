@@ -1,5 +1,5 @@
 #go_game
-####A flexible Pygame framework that initializes a tiled background from a descriptior file upon startup.
+####A flexible Pygame framework that initializes a tiled background from a descriptor file upon startup.
 
 Currently, go_game.py is a program that will load in and display a sequence of tile images as described in a file. The real work of getting the background that you want is in creating a descriptor file. This file gives the program everything that it needs to create a properly sized window and display the tiles correctly. 
 
