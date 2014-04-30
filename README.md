@@ -19,6 +19,8 @@ Go into go_game.py and edit the global "MAPNAME" parameter to contain the path t
       * the next element is the path to that tile image
 * All remaining lines represent the map matrix, and utilize the symbols you declared in the leading line.
 
+**Note:**
+The map can be of any rectangular size, and the window will be adjusted accordingly based on the number and size of tiles.
 
 
 **A very simple example:**
