@@ -41,6 +41,6 @@ Which outputs:
 
 ![go_game Image](http://i.imgur.com/Clwu270.png?1)
 
-#####go_game is powered by the Pygame and Twisted libraries:
+#####go_game is powered by the Pygame library.
 
 ![Pygame Image](http://www.pygame.org/docs/pygame_powered.gif)
