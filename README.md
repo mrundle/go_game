@@ -44,5 +44,3 @@ Which outputs:
 #####go_game is powered by the Pygame and Twisted libraries:
 
 ![Pygame Image](http://www.pygame.org/docs/pygame_powered.gif)
-
-![Twisted Image](http://twistedmatrix.com/images/header-logo.png)
